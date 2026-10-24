@@ -39,14 +39,14 @@ Je conçois, déploie et maintiens des applications métiers qui simplifient le 
 | **SIRH – Gestion des carrières** | Système d'information RH : dossiers du personnel, carrière et avancements, titularisation, gestion des stagiaires, badges | ASP.NET Core · EF Core · SQL Server |
 | **GED CIHMQ – Gestion documentaire qualité** | Codification, circuit de validation et cycle de vie des documents qualité, tableau de bord des indicateurs de la procédure | ASP.NET Core · EF Core · QuestPDF |
 | **Rendez-vous patients** | Prise et suivi des rendez-vous de l'accueil : notifications par e-mail, exports Excel et PDF, API documentée. Refonte de la première version en PHP. | ASP.NET Core MVC · SQL Server · Swagger |
-| **Tontine & tirage au sort du personnel** | Gestion des tontines du personnel : cotisations, tableau de bord, procès-verbaux. Moteur de tirage qui trouve automatiquement une combinaison de gagnants égale au montant du mois. Issue d'une première application de tirage au sort (billets pour La Mecque et Rome). | PHP 8.2 (MVC maison) · MySQL · Bootstrap 5 |
 
-## 🚀 Autres projets
+## 🚀 Projets personnels
 
 | Projet | Description | Stack |
 |---|---|---|
-| **Ndiemane Immo** | Application web de gestion immobilière (projet de fin de licence) | HTML · CSS · JS · PHP · MySQL · Vercel |
-| **Sentissu** | Plateforme e-commerce de vente de tissus (projet final Gomycode) | HTML · CSS · JavaScript |
+| **[Tontine HDJ](https://github.com/khadia04/tontine-hdj)** | Gestion de tontines : cotisations, tableau de bord, procès-verbaux. Moteur de tirage qui trouve automatiquement une combinaison de gagnants égale au montant du mois. Évolution d'une première application de tirage au sort (billets pour La Mecque et Rome). | PHP 8.2 (MVC maison) · MySQL · Bootstrap 5 |
+| **[Ndiemane Immo](https://github.com/khadia04/ndiemane_Immo)** | Plateforme de recherche de biens immobiliers à acheter, louer ou faire construire (projet de fin de licence) | HTML · CSS · JS · Bootstrap · PHP · MySQL · Docker |
+| **[Sentissu](https://github.com/khadia04/sentissu-ecommerce)** | Plateforme e-commerce de vente de tissus (projet final Gomycode) | HTML · CSS · JavaScript |
 | **Leketu Buur** | Plateforme e-commerce agricole : cahier des charges et pages clés | WordPress |
 
 ---
