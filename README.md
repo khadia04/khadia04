@@ -35,16 +35,17 @@ Je conçois, déploie et maintiens des applications métiers qui simplifient le 
 
 | Application | Description | Stack |
 |---|---|---|
-| **GEDA – Dossiers patients** | Archivage et numérisation des dossiers patients : enregistrement, génération de codes-barres, consultation, journal d'audit des accès. **En production, plus de 1 000 dossiers.** | ASP.NET Core · EF Core · SQL Server |
+| **GEDA – Dossiers patients** | Archivage et numérisation des dossiers patients : enregistrement, génération de codes-barres, consultation, journal d'audit des accès. **En production, plus de 4 000 dossiers.** | ASP.NET Core · EF Core · SQL Server |
 | **SIRH – Gestion des carrières** | Système d'information RH : dossiers du personnel, carrière et avancements, titularisation, gestion des stagiaires, badges | ASP.NET Core · EF Core · SQL Server |
 | **GED CIHMQ – Gestion documentaire qualité** | Codification, circuit de validation et cycle de vie des documents qualité, tableau de bord des indicateurs de la procédure | ASP.NET Core · EF Core · QuestPDF |
 | **Rendez-vous patients** | Prise et suivi des rendez-vous de l'accueil : notifications par e-mail, exports Excel et PDF, API documentée. Refonte de la première version en PHP. | ASP.NET Core MVC · SQL Server · Swagger |
+| **Tontine & tirage au sort du personnel** | Gestion des tontines du personnel : cotisations, tableau de bord, procès-verbaux. Moteur de tirage qui trouve automatiquement une combinaison de gagnants égale au montant du mois. Issue d'une première application de tirage au sort (billets pour La Mecque et Rome). | PHP 8.2 (MVC maison) · MySQL · Bootstrap 5 |
 
 ## 🚀 Autres projets
 
 | Projet | Description | Stack |
 |---|---|---|
-| **Ndiemane Immo** | Application web de gestion immobilière | HTML · CSS · JS · PHP · MySQL · Vercel |
+| **Ndiemane Immo** | Application web de gestion immobilière (projet de fin de licence) | HTML · CSS · JS · PHP · MySQL · Vercel |
 | **Sentissu** | Plateforme e-commerce de vente de tissus (projet final Gomycode) | HTML · CSS · JavaScript |
 | **Leketu Buur** | Plateforme e-commerce agricole : cahier des charges et pages clés | WordPress |
 
