@@ -3,7 +3,7 @@
 **Développeuse web & DevOps · C# / ASP.NET Core · SQL Server**
 Master 1 Ingénierie Logicielle à l'[UNCHK](https://www.unchk.edu.sn) · Développeuse web & DevOps (stage) au Centre Hospitalier National Dalal Jamm (Dakar)
 
-Je conçois, déploie et maintiens des applications métiers qui simplifient le travail des équipes hospitalières. Depuis décembre 2025, j'ai occupé trois postes successifs à Dalal Jamm (STM, QHSE, puis CIHMQ), dans un secteur où fiabilité et confidentialité des données sont essentielles.
+Je conçois, déploie et maintiens des applications métiers qui simplifient le travail des équipes hospitalières. Depuis décembre 2025 à Dalal Jamm (service STM, puis CIHMQ, où mon stage a été prolongé par un contrat d'un an), dans un secteur où fiabilité et confidentialité des données sont essentielles.
 
 🎯 **Je recherche un premier CDD en développement d'applications.**
 
